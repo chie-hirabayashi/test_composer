@@ -1,0 +1,11 @@
+{
+    "name": "admin/test",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Test\\": "src/"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.24"
+    }
+}
